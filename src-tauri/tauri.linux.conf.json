@@ -1,0 +1,10 @@
+{
+  "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
+  "bundle": {
+    "targets": ["deb", "appimage"],
+    "resources": [
+      "binaries/quantizer-x86_64-unknown-linux-gnu",
+      "binaries/*.so"
+    ]
+  }
+}

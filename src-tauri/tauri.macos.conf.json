@@ -1,0 +1,10 @@
+{
+  "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
+  "bundle": {
+    "targets": ["app", "dmg"],
+    "resources": [
+      "binaries/quantizer-aarch64-apple-darwin",
+      "binaries/*.dylib"
+    ]
+  }
+}
