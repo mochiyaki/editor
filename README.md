@@ -26,6 +26,6 @@ run/test the app in developer mode
 npm run tauri:dev
 ```
 
-*if you are not prepared to build it yourself (though it's recommended), find the OS specific installer from [releases](https://github.com/mochiyaki/editor/releases)
+*though it's recommended, but if you are not prepared to build it yourself, find the OS specific installer from [releases](https://github.com/mochiyaki/editor/releases)
 
 ![screenshot](https://raw.githubusercontent.com/gguf-org/gguf-desktop/master/pizza.jpg)
